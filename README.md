@@ -1,4 +1,4 @@
-# simpleparser
+# simplecrawler
 
 A simple html crawler someone asked me to do... 
 
